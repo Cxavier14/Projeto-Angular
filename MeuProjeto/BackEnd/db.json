@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Caneta preta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Notebook Azus",
+      "preco": 2050.99
+    },
+    {
+      "id": 3,
+      "nome": "Bone",
+      "preco": 25.15
+    }
+   
+  ]
+}
