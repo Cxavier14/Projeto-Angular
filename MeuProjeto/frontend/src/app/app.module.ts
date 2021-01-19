@@ -32,7 +32,8 @@ import { MatInputModule } from '@angular/material/input';
     NavComponent,
     HomeComponent,
     ProductCrudComponent,
-    ProductsCreateComponent
+    ProductsCreateComponent,
+    ProductReadComponent
   ],
   imports: [
     BrowserModule,
