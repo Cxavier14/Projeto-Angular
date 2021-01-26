@@ -14,7 +14,11 @@
       "id": 3,
       "nome": "Bone",
       "preco": 25.15
+    },
+    {
+      "name": "Pinheirinho",
+      "price": "200.20",
+      "id": 4
     }
-   
   ]
 }
